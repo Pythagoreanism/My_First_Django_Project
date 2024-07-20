@@ -3,4 +3,7 @@ from django.http import HttpResponse
 
 # Create your views here.
 def sayHello(request):
-    return render(request, "hello.html", {"name" : "John"})
+    return render(request, "hello.html")
+
+def sayApp(request):
+    return HttpResponse("This is the App")

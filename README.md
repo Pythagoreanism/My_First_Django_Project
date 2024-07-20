@@ -18,3 +18,4 @@ Heres my progress in learning Django:
 - The `SECRET_KEY` and `DEBUG` information was created in a separate file `.env` (ignored by `.gitignore`)
 - Following tutorial "Python Django Tutorial for Beginners" by Mosh Hamedani
 - `.gitignore` file source: https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/
+- UPDATE: No longer following tutorial as of the making of this commit
